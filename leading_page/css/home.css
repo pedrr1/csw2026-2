@@ -1,0 +1,26 @@
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+
+header{
+    text-align: center;
+
+}
+
+.troca{
+  width: 00px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.troca:hover{
+    content: url(../img/uvv-brasao.png);
+}
+
+.troca img{
+    border-radius: 50%;
+}
